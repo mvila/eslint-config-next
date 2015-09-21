@@ -19,7 +19,7 @@ module.exports = {
     'consistent-return': [2],
     'curly': [2, 'multi-line'],
     'eqeqeq': [2],
-    'func-style': [2, 'expression'],
+    'func-style': [2, 'declaration'],
     'indent': [2, 2, { 'SwitchCase': 1 }],
     'key-spacing': [2],
     'linebreak-style': [2],
