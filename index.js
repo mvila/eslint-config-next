@@ -18,7 +18,7 @@ module.exports = {
     'comma-style': [2],
     'consistent-return': [2],
     'curly': [2, 'multi-line'],
-    'eqeqeq': [2],
+    'eqeqeq': [2, 'allow-null'],
     'func-style': [2, 'declaration'],
     'indent': [2, 2, { 'SwitchCase': 1 }],
     'key-spacing': [2],
