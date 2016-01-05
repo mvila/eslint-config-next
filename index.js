@@ -23,7 +23,6 @@ module.exports = {
     'indent': [2, 2, { 'SwitchCase': 1 }],
     'key-spacing': [2],
     'linebreak-style': [2],
-    'new-cap': [2],
     'new-parens': [2],
     'no-cond-assign': [2],
     'no-delete-var': [2],
