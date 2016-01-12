@@ -78,7 +78,6 @@ module.exports = {
     'space-return-throw-case': [2],
     'space-unary-ops': [2],
     'spaced-comment': [2],
-    'strict': [2, 'global'],
     'use-isnan': [2],
     'valid-typeof': [2],
     'yoda': [2, 'never']
