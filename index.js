@@ -21,6 +21,7 @@ module.exports = {
     'eqeqeq': [2, 'allow-null'],
     'func-style': [2, 'declaration', { "allowArrowFunctions": true }],
     'indent': [2, 2, { 'SwitchCase': 1 }],
+    'jsx-quotes': [2, 'prefer-single'],
     'key-spacing': [2],
     'linebreak-style': [2],
     'new-parens': [2],
