@@ -54,7 +54,6 @@ module.exports = {
     'no-octal': [2],
     'no-redeclare': [2],
     'no-regex-spaces': [2],
-    'no-return-assign': [2],
     'no-sequences': [2],
     'no-shadow-restricted-names': [2],
     'no-spaced-func': [2],
