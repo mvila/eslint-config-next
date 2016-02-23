@@ -38,7 +38,6 @@ module.exports = {
     'no-extra-semi': [2],
     'no-fallthrough': [2],
     'no-func-assign': [2],
-    'no-inner-declarations': [2],
     'no-invalid-regexp': [2],
     'no-irregular-whitespace': [2],
     'no-lone-blocks': [2],
