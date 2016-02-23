@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-next",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "ESLint configuration using Babel parser to support next JS cutting edge features",
   "keywords": [
     "eslint",
