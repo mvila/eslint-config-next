@@ -2,9 +2,6 @@
 
 module.exports = {
   'parser': 'babel-eslint',
-  'ecmaFeatures': {
-    'jsx': true
-  },
   'env': {
     'browser': true,
     'node': true,
