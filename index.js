@@ -8,7 +8,7 @@ module.exports = {
     'es6': true
   },
   'rules': {
-    'brace-style': [2],
+    'brace-style': [2, '1tbs', { 'allowSingleLine': true }],
     'camelcase': [2],
     'comma-dangle': [2],
     'comma-spacing': [2],
@@ -16,7 +16,7 @@ module.exports = {
     'consistent-return': [2],
     'curly': [2, 'multi-line'],
     'eqeqeq': [2, 'allow-null'],
-    'func-style': [2, 'declaration', { "allowArrowFunctions": true }],
+    'func-style': [2, 'declaration', { 'allowArrowFunctions': true }],
     'indent': [2, 2, { 'SwitchCase': 1 }],
     'jsx-quotes': [2, 'prefer-single'],
     'key-spacing': [2],
