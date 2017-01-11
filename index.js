@@ -62,6 +62,7 @@ module.exports = {
     'no-unused-vars': [2],
     'no-var': [2],
     'object-shorthand': [2],
+    'prefer-const': [2],
     'quotes': [2, 'single'],
     'radix': [2],
     'semi': [2],
