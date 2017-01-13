@@ -23,6 +23,7 @@ module.exports = {
     'linebreak-style': [2],
     'new-parens': [2],
     'no-cond-assign': [2],
+    'no-const-assign': [2],
     'no-delete-var': [2],
     'no-dupe-args': [2],
     'no-dupe-keys': [2],
