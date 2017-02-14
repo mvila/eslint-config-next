@@ -70,7 +70,7 @@ module.exports = {
     'no-var': [2],
     'object-shorthand': [2],
     'prefer-const': [2],
-    'quotes': [1, 'single'],
+    'quotes': [2, 'single'],
     'radix': [2],
     'semi': [2],
     'semi-spacing': [2],
