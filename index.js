@@ -1,6 +1,13 @@
 'use strict';
 
 module.exports = {
+  'parserOptions': {
+    'ecmaVersion': 8,
+    'sourceType': 'module',
+    'ecmaFeatures': {
+      'jsx': true
+    }
+  },
   'env': {
     'browser': true,
     'node': true,
